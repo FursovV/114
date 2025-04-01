@@ -8,11 +8,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class UserDaoJDBCImpl implements UserDao {
+/*public class UserDaoJDBCImpl implements UserDao {
     private Connection conn;
 
     public UserDaoJDBCImpl() {
-   /*     this.conn = Util.getConnection();*/
+   *//*     this.conn = Util.getConnection();*//*
     }
 
     public void createUsersTable() throws SQLException {
@@ -76,7 +76,7 @@ public class UserDaoJDBCImpl implements UserDao {
             int a = statement.executeUpdate();
         }
     }
-}
+}*/
 
 
 
